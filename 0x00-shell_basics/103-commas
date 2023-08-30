@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -a | sed 's/$/,/' | sort -t '' -k 1.1n -k 1.2,1 | tr '\n' ','
-
