@@ -1,3 +1,2 @@
-# alx-system_engineering-devops
-This repo contains all the projects for the first term.
-feel free to explore the projects!
+#I created this script to solve all the tasks for me 
+i solve them one by one
